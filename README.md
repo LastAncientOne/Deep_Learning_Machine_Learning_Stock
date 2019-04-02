@@ -13,5 +13,6 @@ Jupyter Notebook Python 3
 ## Authors
 * Tin Hang
 
-## Authors
-* Tin Hang
+## Disclaimer
+Do not use this code for investing or trading in the stock market. However, if you are interst in the stock market, you should read books that relate to stock market or finance.
+
