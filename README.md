@@ -6,5 +6,12 @@ This is for studying and analyzing stock in deep learning (DL) and machine learn
 Predicting Stock with Machine Learning or Deep Learning with different types of algorithm.
 Experimental in stock data and see how it works and why it work or does not work that way.
 
+# Prerequistes
+Python 3.5+
+Jupyter Notebook Python 3
+
+## Authors
+* Tin Hang
+
 ## Authors
 * Tin Hang
