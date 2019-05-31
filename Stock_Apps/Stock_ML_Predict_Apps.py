@@ -8,7 +8,13 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 import datetime
+
+# Machine Learning Libraries
 from sklearn.linear_model import LinearRegression
+from sklearn.linear_model import LogisticRegression
+from sklearn.model_selection import train_test_split
+from sklearn import metrics
+from sklearn.model_selection import cross_val_score
 
 import warnings
 warnings.filterwarnings("ignore")
@@ -17,7 +23,7 @@ warnings.filterwarnings("ignore")
 import fix_yahoo_finance as yf
 yf.pdr_override()
 
-options = " Stock Linear Regression Prediction, Exit".split(",")
+options = " Stock Linear Regression Prediction, Stock Logistic Regression Prediction, Exit".split(",")
 
 # Input Start Date
 def start_date():
@@ -38,6 +44,32 @@ def input_symbol():
     symbol = input("Enter symbol: ").upper()
     return symbol
 
+# Features Analysis
+def stock_logistic_regression():
+    s = start_date() 
+    e = end_date()
+    sym = input_symbol()
+    df = yf.download(sym, s, e)
+ 
+    df = df.drop(['Date'], axis=1)
+    X = df.loc[:, df.columns != 'Adj Close']
+    y = np.where (df['Adj Close'].shift(-1) > df['Adj Close'],1,-1)
+
+    split = int(0.7*len(df))
+    X_train, X_test, y_train, y_test = X[:split], X[split:], y[:split], y[split:]
+    model = LogisticRegression()
+    model = model.fit(X_train,y_train)
+    predicted = model.predict(X_test)
+    print(metrics.confusion_matrix(y_test, predicted))
+    print(metrics.classification_report(y_test, predicted))
+    print(model.score(X_test,y_test))
+    cross_val = cross_val_score(LogisticRegression(), X, y, scoring='accuracy', cv=10)
+    print(cross_val)
+    print(cross_val.mean())
+    return
+
+
+# Linear Regression
 def stock_linear_regression():
     s = start_date() 
     e = end_date()
@@ -78,6 +110,8 @@ def main():
         if choice == 1:
              stock_linear_regression()
         elif choice == 2:
+             stock_logistic_regression()
+        elif choice == 3:
              run_program = False             
 
 
