@@ -101,15 +101,16 @@ def main():
     run_program = True
     while run_program:
         print("__________Stock Price Prediction__________")
-        print("____________Linear Regression_____________")
         print("Choose Options:")
         for i in range(1, len(options)+1):
             print("{} - {}".format(i, options[i-1]))
         choice = int(input())
         
         if choice == 1:
+        print("____________Linear Regression_____________")    
              stock_linear_regression()
         elif choice == 2:
+        print("____________Logistic Regression_____________")
              stock_logistic_regression()
         elif choice == 3:
              run_program = False             
