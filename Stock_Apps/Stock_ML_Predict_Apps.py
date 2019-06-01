@@ -24,7 +24,7 @@ warnings.filterwarnings("ignore")
 import fix_yahoo_finance as yf
 yf.pdr_override()
 
-options = " Stock Linear Regression Prediction, Stock Logistic Regression Prediction, SVR, Exit".split(",")
+options = " Stock Linear Regression Prediction, Stock Logistic Regression Prediction, Support Vector Regression, Exit".split(",")
 
 # Input Start Date
 def start_date():
@@ -147,7 +147,7 @@ def main():
         print("____________Logistic Regression_____________")
              stock_logistic_regression()
         elif choice == 3:
-        print("____________SVR_____________")
+        print("____________Support Vector Regression_____________")
              stock_logistic_regression()    
         elif choice == 4:
              run_program = False             
