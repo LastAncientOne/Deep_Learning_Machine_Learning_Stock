@@ -16,5 +16,5 @@ Jupyter Notebook Python 3
 * Tin Hang
 
 ## Disclaimer  
-&#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interst in the stock market, you should read books that relate to stock market or finance.
+&#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read &#x1F4D7; books that relate to stock market, investment, or finance. ON the other hand, if you into quant or machine learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. 
 
