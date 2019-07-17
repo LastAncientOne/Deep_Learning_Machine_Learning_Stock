@@ -3,7 +3,7 @@
 # Deep-Learning-Machine-Learning-Stock
 ## Stock for Deep Learning and Machine Learning
 
-This is for studying and analyzing stock in deep learning (DL) and machine learning (ML). 
+This is for studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). 
 
 Predicting Stock with Machine Learning or Deep Learning with different types of algorithm.
 Experimental in stock data and see how it works and why it work or does not work that way.
