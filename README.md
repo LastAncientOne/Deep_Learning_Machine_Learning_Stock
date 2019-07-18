@@ -1,12 +1,11 @@
 <img src="Title.PNG">
 
 # Deep Learning and Machine Learning for Stock predictions
-## Stock for Deep Learning and Machine Learning
 
-Description: This is for studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimental in stock data and see how it works and why it work or does not work that way.  
+Description: This is for studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimental in stock data and see how it works and why it works or why it does not works that way.  
 
-# List of Machine Learning Algorithms for Stock Trading  
-## Different Types of Machine Learning Algorithms and Models  
+## List of Machine Learning Algorithms for Stock Trading  
+### Different Types of Machine Learning Algorithms and Models  
 Algorithms is a process and set of instructions to solve a class of problems. In addition, algorithms perform a computation such as calculations, data processing, automated reasoning, and other tasks. 
 
 # Prerequistes  
