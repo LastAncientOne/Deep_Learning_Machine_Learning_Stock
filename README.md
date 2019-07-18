@@ -13,10 +13,15 @@ Description: This is for learning, studying, researching, and analyzing stock in
 5. Polynomial Regression  
 6. Stepwise Regression  
 7. Ridge Regression  
-5. Multivariate Regression Algorithm  
-6. Multiple Regression Algorithm  
-7. Lasso Regression  
-8. ElasticNet Regression   
+8. Multivariate Regression Algorithm    
+9. Multiple Regression Algorithm  
+10. K Means Clustering Algorithm  
+11. Naïve Bayes Classifier Algorithm  
+12. Random Forests  
+13. Decision Trees  
+14. Nearest Neighbours   
+15. Lasso Regression  
+16. ElasticNet Regression     
 
 ### Different Types of Machine Learning Algorithms and Models  
 Algorithms is a process and set of instructions to solve a class of problems. In addition, algorithms perform a computation such as calculations, data processing, automated reasoning, and other tasks. 
