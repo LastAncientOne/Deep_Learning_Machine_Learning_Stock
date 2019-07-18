@@ -2,9 +2,22 @@
 
 # Deep Learning and Machine Learning for Stock predictions
 
-Description: This is for studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimental in stock data and see how it works and why it works or why it does not works that way.  
+Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimental in stock data and see how it works and why it works or why it does not works that way.  
 
 ## List of Machine Learning Algorithms for Stock Trading  
+### Most Common Regression Algorithms  
+1. Simple Linear Regression Model  
+2. Logistic Regression  
+3. Lasso Regression    
+4. Support Vector Machines  
+5. Polynomial Regression  
+6. Stepwise Regression  
+7. Ridge Regression  
+5. Multivariate Regression Algorithm  
+6. Multiple Regression Algorithm  
+7. Lasso Regression  
+8. ElasticNet Regression   
+
 ### Different Types of Machine Learning Algorithms and Models  
 Algorithms is a process and set of instructions to solve a class of problems. In addition, algorithms perform a computation such as calculations, data processing, automated reasoning, and other tasks. 
 
