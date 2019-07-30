@@ -7,7 +7,8 @@ Description: This is for learning, studying, researching, and analyzing stock in
 Two types of problems: Classification (predict label) and Regression (predict values)  
 
 ## Python Reviews
-Step 1 through step 8 is a reviews if you forgot or do not know python
+Step 1 through step 8 is a reviews if you forgot or do not know python  
+After step 8, everything you need to know that is relate to machine learning and deep learning. 
 
 ## List of Machine Learning Algorithms for Stock Trading  
 ### Most Common Regression Algorithms  
@@ -34,6 +35,8 @@ Algorithms is a process and set of instructions to solve a class of problems. In
 # Prerequistes  
 Python 3.5+  
 Jupyter Notebook Python 3  
+
+## :small_red_triangle_down: I will add more of algorithms and different types of algorithms   
 
 ## Authors  
 * Tin Hang
