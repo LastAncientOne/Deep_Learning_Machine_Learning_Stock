@@ -7,7 +7,7 @@ Description: This is for learning, studying, researching, and analyzing stock in
 Two types of problems: Classification (predict label) and Regression (predict values)  
 
 ## Python Reviews
-Step 1 throught step 8 is a reviews if you forgot or do not know python
+Step 1 through step 8 is a reviews if you forgot or do not know python
 
 ## List of Machine Learning Algorithms for Stock Trading  
 ### Most Common Regression Algorithms  
