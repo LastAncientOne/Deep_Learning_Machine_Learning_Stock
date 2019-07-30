@@ -36,7 +36,7 @@ Algorithms is a process and set of instructions to solve a class of problems. In
 Python 3.5+  
 Jupyter Notebook Python 3  
 
-## :black_square_button: I will add more of algorithms and different types of algorithms   
+## :black_square_button: Add more of algorithms and different types of algorithms   
 
 ## Authors  
 * Tin Hang
