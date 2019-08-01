@@ -1,4 +1,4 @@
-** # List of Algorithms **
+** List of Algorithms **
 
 Linear Regression  
 Logistic Regression  
