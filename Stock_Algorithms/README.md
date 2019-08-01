@@ -1,9 +1,5 @@
-# `` - List of Algorithms``
 ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
+- List of Algorithms
 ```
 Linear Regression  
 Logistic Regression  
