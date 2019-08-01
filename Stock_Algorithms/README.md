@@ -1,3 +1,3 @@
-<font color="blue">List of Algorithms</font>
+# List of Algorithms
 Linear Regression  
 Logistic Regression  
