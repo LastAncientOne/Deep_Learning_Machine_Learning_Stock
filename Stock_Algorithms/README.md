@@ -1,5 +1,3 @@
-# ```diff
-- List of Algorithms
-```
+# ```diff- List of Algorithms```
 Linear Regression  
 Logistic Regression  
