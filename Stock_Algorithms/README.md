@@ -1,4 +1,4 @@
-```diff
+# ```diff
 - List of Algorithms
 ```
 Linear Regression  
