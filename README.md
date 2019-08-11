@@ -4,6 +4,10 @@
 
 Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimental in stock data and see how it works and why it works or why it does not works that way.  
 
+Three types of data: Categorical, Discrete, and Continuous variables
+  1. Categorical variable: Label data oor distinct groups.    
+  2. Discrete variable: Numerica variables but the data is countable number of values between any two values.  
+  3. Continuous variable: Numeric variables that have an infinite number of values between any two values.  
 Two types of problems: Classification (predict label) and Regression (predict values)  
 
 ## Python Reviews
