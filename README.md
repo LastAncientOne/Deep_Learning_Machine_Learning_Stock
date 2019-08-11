@@ -9,6 +9,11 @@ Description: This is for learning, studying, researching, and analyzing stock in
   2. Discrete variable (Class Data): Numerica variables but the data is countable number of values between any two values.  
   3. Continuous variable (Quantitative): Numeric variables that have an infinite number of values between any two values.  
 
+### Data Use  
+  1. For 'Quantitative data' is used with all three centre measures (mean, median and mode) and all spread measures.  
+  2. For 'Class data' is used with median and mode.  
+  3. For 'Qualitative data' is for only with mode.  
+
 ### Two types of problems: 
   1. Classification (predict label)  
   2. Regression (predict values)  
