@@ -9,7 +9,9 @@ Three types of data: Categorical, Discrete, and Continuous variables
   2. Discrete variable: Numerica variables but the data is countable number of values between any two values.  
   3. Continuous variable: Numeric variables that have an infinite number of values between any two values.  
 
-Two types of problems: Classification (predict label) and Regression (predict values)  
+Two types of problems: 
+  1. Classification (predict label)  
+  2. Regression (predict values)  
 
 ## Python Reviews
 Step 1 through step 8 is a reviews if you forgot or do not know python  
