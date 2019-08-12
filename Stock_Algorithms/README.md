@@ -3,7 +3,7 @@
 :arrow_forward: Bagging Classifier  
 :arrow_forward: Classification Cluster  
 :arrow_forward: Decision Trees  
-:arrow_forward: Logistic 
+:arrow_forward: Logistic Regression  
 :arrow_forward: Polynomial Regression  
 :arrow_forward: Linear Regression  
 :arrow_forward: Logistic Regression  
