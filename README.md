@@ -10,7 +10,7 @@ Description: This is for learning, studying, researching, and analyzing stock in
   2. Discrete variable (Class Data): Numerica variables but the data is countable number of values between any two values.  
     Example: customer complaints or number of flaws or defects, Children per Household, age (number of years)  
   3. Continuous variable (Quantitative): Numeric variables that have an infinite number of values between any two values.
-    Example: length of a part or the date and time a payment is received, running distance, age(nfinitly accurate and use an    infinite number of decimal places)  
+    Example: length of a part or the date and time a payment is received, running distance, age (infinitly accurate and use an    infinite number of decimal places)  
 
 ### Data Use  
   1. For 'Quantitative data' is used with all three centre measures (mean, median and mode) and all spread measures.  
