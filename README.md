@@ -23,7 +23,7 @@ Description: This is for learning, studying, researching, and analyzing stock in
 
 ## Python Reviews
 Step 1 through step 8 is a reviews if you forgot or do not know python  
-After step 8, everything you need to know that is relate to machine learning and deep learning. 
+After step 8, everything you need to know that is relate to data engineering, data science, machine learning, and deep learning. 
 
 ## List of Machine Learning Algorithms for Stock Trading  
 ### Most Common Regression Algorithms  
