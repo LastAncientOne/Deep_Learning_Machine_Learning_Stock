@@ -1,7 +1,7 @@
-# :large_blue_diamond: List of Algorithms :large_blue_diamond:
-:arrow_forward: AdaBoost Regressors  
+# :large_blue_diamond: List of Algorithms :large_blue_diamond:  
 :arrow_forward: AdaBoost Classification  
-:arrow_forward: Bagging Classifier  
+:arrow_forward: AdaBoost Regressor   
+:arrow_forward: Bagging Classifier   
 :arrow_forward: Classification Cluster  
 :arrow_forward: Decision Tree   
 :arrow_forward: Logistic Regression    
