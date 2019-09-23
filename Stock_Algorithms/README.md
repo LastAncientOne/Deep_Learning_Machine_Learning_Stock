@@ -6,6 +6,7 @@
 :arrow_forward: Decision Tree   
 :arrow_forward: Logistic Regression    
 :arrow_forward: Linear Regression  
+:arrow_forward: K-Nearest Neighbors   
 :arrow_forward: Nearest Neighbors   
 :arrow_forward: Polynomial Regression   
 :arrow_forward: Random Forest Classification  
