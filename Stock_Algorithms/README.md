@@ -12,5 +12,6 @@
 :arrow_forward: Random Forest Classification  
 :arrow_forward: Random Forest Regression   
 :arrow_forward: Ridge Regression  
+:arrow_forward: Tensorflow  
 :arrow_forward: Time Series  
 :arrow_forward: XGBoost  
