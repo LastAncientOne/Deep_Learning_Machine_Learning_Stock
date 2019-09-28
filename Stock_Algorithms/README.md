@@ -4,6 +4,7 @@
 :arrow_forward: Bagging Classifier   
 :arrow_forward: Classification Cluster  
 :arrow_forward: Decision Tree   
+:arrow_forward: K-Means  
 :arrow_forward: K-Nearest Neighbors  
 :arrow_forward: Logistic Regression    
 :arrow_forward: Linear Regression   
