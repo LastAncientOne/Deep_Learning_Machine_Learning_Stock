@@ -2,6 +2,7 @@
 :arrow_forward: AdaBoost Classification  
 :arrow_forward: AdaBoost Regressor   
 :arrow_forward: Bagging Classifier   
+:arrow_forward: Bayesian Ridge Regression  
 :arrow_forward: Classification Cluster  
 :arrow_forward: Decision Tree   
 :arrow_forward: K-Means  
