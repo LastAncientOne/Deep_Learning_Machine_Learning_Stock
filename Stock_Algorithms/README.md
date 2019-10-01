@@ -5,6 +5,7 @@
 :arrow_forward: Bayesian Ridge Regression  
 :arrow_forward: Classification Cluster  
 :arrow_forward: Decision Tree   
+:arrow_forward: Gradient Boosting Classification  
 :arrow_forward: K-Means  
 :arrow_forward: K-Nearest Neighbors  
 :arrow_forward: Logistic Regression    
