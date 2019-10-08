@@ -11,9 +11,9 @@
 :arrow_forward: Logistic Regression    
 :arrow_forward: Linear Regression   
 :arrow_forward: Nearest Neighbors  
-:arrow_forward: Neural Networks Regression
 :arrow_forward: NetworkX  
-:arrow_forward: Polynomial Regression   
+:arrow_forward: Neural Networks Regression  
+:arrow_forward: Polynomial Regression    
 :arrow_forward: Random Forest Classification  
 :arrow_forward: Random Forest Regression   
 :arrow_forward: Ridge Regression  
