@@ -3,8 +3,10 @@
 :arrow_forward: AdaBoost Regressor   
 :arrow_forward: Bagging Classifier   
 :arrow_forward: Bayesian Ridge Regression  
+:arrow_forward: CatBoost Algorithms    
 :arrow_forward: Classification Cluster  
-:arrow_forward: Decision Tree   
+:arrow_forward: Decision Tree Clissification   
+:arrow_forward: Decision Tree Regression  
 :arrow_forward: Gradient Boosting Classification  
 :arrow_forward: K-Means  
 :arrow_forward: K-Nearest Neighbors  
