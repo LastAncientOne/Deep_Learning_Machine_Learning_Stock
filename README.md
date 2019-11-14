@@ -54,7 +54,7 @@ Jupyter Notebook Python 3
 ## :black_square_button: Add more of algorithms and different types of algorithms   
 
 ## Authors  
-* Tin Hang
+### * Tin Hang
 
 ## Disclaimer  
 &#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books that relate to stock market, investment, or finance. On the other hand, if you into quant or machine learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. You should read &#x1F4D7; about Machine Learning and Deep Learning to understand the concept, theory, and the mathematics. On the other hand, you should read academic paper and do research online about machine learning and deep learning on :computer:  
