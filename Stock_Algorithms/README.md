@@ -1,7 +1,7 @@
 # :large_blue_diamond: List of Algorithms :large_blue_diamond:  
 :arrow_forward: AdaBoost Classification  
 :arrow_forward: AdaBoost Regressor   
-:arrow_forward: Anomaly Detection
+:arrow_forward: Anomaly Detection  
 :arrow_forward: Bagging Classifier   
 :arrow_forward: Bayesian Ridge Regression  
 :arrow_forward: CatBoost Algorithms    
