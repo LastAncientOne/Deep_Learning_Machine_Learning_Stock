@@ -42,7 +42,8 @@ After step 8, everything you need to know that is relate to data analysis, data 
 13. Decision Trees  
 14. Nearest Neighbours   
 15. Lasso Regression  
-16. ElasticNet Regression     
+16. ElasticNet Regression  
+17. Reinforcement Learning  
 
 ### Different Types of Machine Learning Algorithms and Models  
 Algorithms is a process and set of instructions to solve a class of problems. In addition, algorithms perform a computation such as calculations, data processing, automated reasoning, and other tasks. 
