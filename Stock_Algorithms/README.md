@@ -4,6 +4,7 @@
 :arrow_forward: Anomaly Detection  
 :arrow_forward: Bagging Classifier   
 :arrow_forward: Bayesian Ridge Regression  
+:arrow_forward: Bernoulli Restricted Boltzmann Machine  
 :arrow_forward: CatBoost Algorithms    
 :arrow_forward: Classification Cluster  
 :arrow_forward: Decision Tree Clissification   
