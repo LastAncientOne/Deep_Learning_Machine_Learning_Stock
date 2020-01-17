@@ -2,7 +2,7 @@
 
 # Deep Learning and Machine Learning for Stock predictions
 
-Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimenting in stock data and see how it works and why it works or why it does not works that way. Using different types of stock strategies in machine learning or deep learning. Using Technical Analysis or Fundamental Analysis to predict the future stock price.
+Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimenting in stock data and see how it works and why it works or why it does not works that way. Using different types of stock strategies in machine learning or deep learning. Using Technical Analysis or Fundamental Analysis in machine learning or deep learning to predict the future stock price.
 
 ### Three main types of data: Categorical, Discrete, and Continuous variables
   1. Categorical variable(Qualitative): Label data or distinct groups.    
