@@ -19,6 +19,7 @@
 :arrow_forward: NetworkX  
 :arrow_forward: Neural Networks Regression  
 :arrow_forward: Quantile Regression  
+:arrow_forward: Partial Least Squares Regression (PLSR)
 :arrow_forward: Polynomial Regression    
 :arrow_forward: Random Forest Classification  
 :arrow_forward: Random Forest Regression   
