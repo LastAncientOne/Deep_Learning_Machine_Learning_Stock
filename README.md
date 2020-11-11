@@ -2,7 +2,9 @@
 
 # Deep Learning and Machine Learning for Stock predictions
 
-Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimenting in stock data to see how it works and why it works or why it does not works that way. Using different types of stock strategies in machine learning or deep learning. Using Technical Analysis or Fundamental Analysis in machine learning or deep learning to predict the future stock price. In addition, to predict stock in long terms or short terms. 
+Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning or Deep Learning with different types of algorithm. Experimenting in stock data to see how it works and why it works or why it does not works that way. Using different types of stock strategies in machine learning or deep learning. Using Technical Analysis or Fundamental Analysis in machine learning or deep learning to predict the future stock price. In addition, to predict stock in long terms or short terms.  
+
+Machine learning is a subset of artificial intelligence involved with the creating of algorithms that can modify itself without human intervention to produce an output by feeding itself through structured data. On the other hand, deep learning is a subset of machine learning where algorithms are created, but the function are similar to machine learning and many of the different type of algorithms provide a different interpretation of the data. The network of algorithms is called artifical neural networks and is similar to neural connections that exist in the human brain.  
 
 ### Three main types of data: Categorical, Discrete, and Continuous variables
   1. Categorical variable(Qualitative): Label data or distinct groups.    
@@ -10,7 +12,7 @@ Description: This is for learning, studying, researching, and analyzing stock in
   2. Discrete variable (Class Data): Numerica variables but the data is countable number of values between any two values.  
     Example: customer complaints or number of flaws or defects, Children per Household, age (number of years)  
   3. Continuous variable (Quantitative): Numeric variables that have an infinite number of values between any two values.
-    Example: length of a part or the date and time a payment is received, running distance, age (infinitly accurate and use an    infinite number of decimal places)  
+    Example: length of a part or the date and time a payment is received, running distance, age (infinitly accurate and use an infinite number of decimal places)  
 
 ### Data Use  
   1. For 'Quantitative data' is used with all three centre measures (mean, median and mode) and all spread measures.  
