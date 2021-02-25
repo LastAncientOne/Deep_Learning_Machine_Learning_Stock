@@ -1,4 +1,4 @@
-<img src="DLML.PNG">
+<img src="DL_Title.PNG">
 
 # Deep Learning and Machine Learning for Stock predictions  
 Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning method or Deep Learning method with different types of algorithm. Experimenting in stock data to see how it works and why it works or why it does not work that way. Using different types of stock strategies in machine learning or deep learning. Using Technical Analysis or Fundamental Analysis in machine learning or deep learning to predict the future stock price. In addition, to predict stock in long terms or short terms.  
