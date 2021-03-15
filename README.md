@@ -1,3 +1,5 @@
+teest read me update brnach
+
 <img src="DL_Title.PNG">
 
 # Deep Learning and Machine Learning for Stock predictions  
