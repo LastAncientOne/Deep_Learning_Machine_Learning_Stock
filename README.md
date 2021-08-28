@@ -27,7 +27,7 @@ Overfitted is when the model memorizes the noise and fits too closely to the tra
 #### Overfitting:   
   1. High training error  
   2. High test error  
-#### Avoding overfitting:  
+#### Avoiding overfitting:  
   1. Early stopping - stop the training before the model starts learning the noise within the model.   
   2. Training with more data - adding more data will increase the accuracy of the modelor can help algorithms detect the signal better.     
   3. Data augmentation - add clean and relevant data into training data.  
@@ -41,7 +41,7 @@ Good fit:
 #### Underfitting:  
   1. Low training error  
   2. High test error   
-#### Avoding overfitting:  
+#### Avoiding overfitting:  
   1. Decrease regularization  
   2. Increase the duration of training  
   3. Feature selection   
