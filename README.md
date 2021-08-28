@@ -26,9 +26,9 @@ Machine learning is a subset of artificial intelligence involved with the creati
 
 #### Overfitting:   
   1. High training error  
-  2. High test error    
-Avoding overfitting:  
-  1. Early stopping   
+  2. High test error  
+#### Avoding overfitting:  
+  1. Early stopping
   2. Training with more data  
   3. Data augmentation  
   4. Feature selection  
@@ -41,10 +41,10 @@ Good fit:
 #### Underfitting:  
   1. Low training error  
   2. High test error   
-Avoding overfitting:  
-  1. Decrease regularization     
+#### Avoding overfitting:  
+  1. Decrease regularization  
   2. Increase the duration of training  
-  3. Feature selection  
+  3. Feature selection   
 
 
 ## Python Reviews
