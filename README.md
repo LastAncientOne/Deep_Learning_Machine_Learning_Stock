@@ -23,17 +23,17 @@ Machine learning is a subset of artificial intelligence involved with the creati
   2. Regression (predict values)  
 
 ### Overfitting, Underfitting, and the bias-variance tradeoff  
-Overfitted is when the model memorizes the noise and fits too closely to the training set. Underfitting is when it cannot establish the dominant trend within the data; as a result, in training errors and poor performance of the model.  
+Overfitted is when the model memorizes the noise and fits too closely to the training set. Good fit is a model that learns the training dataset and genernalizes well with the old out dataset. Underfitting is when it cannot establish the dominant trend within the data; as a result, in training errors and poor performance of the model.  
 #### Overfitting:   
   1. High training error  
   2. High test error  
 #### Avoding overfitting:  
-  1. Early stopping
-  2. Training with more data  
-  3. Data augmentation  
-  4. Feature selection  
-  5. Regularization  
-  6. Ensemble methods    
+  1. Early stopping - stop the training before the model starts learning the noise within the model.   
+  2. Training with more data - adding more data will increase the accuracy of the modelor can help algorithms detect the signal better.     
+  3. Data augmentation - add clean and relevant data into training data.  
+  4. Feature selection - Use important features within the data.  
+  5. Regularization - reduce features by using regularization methods such as L1 regularization, Lasso regularization, and dropout.  
+  6. Ensemble methods - combine predictions from multiple separate models such as bagging and boosting.       
 #### Good fit:  
 Good fit:   
   1. Low training error  
