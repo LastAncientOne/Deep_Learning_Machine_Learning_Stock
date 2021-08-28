@@ -42,9 +42,9 @@ Good fit:
   1. Low training error  
   2. High test error   
 #### Avoiding overfitting:  
-  1. Decrease regularization  
-  2. Increase the duration of training  
-  3. Feature selection   
+  1. Decrease regularization - reduce the variance with a model by applying a penalty to the input parameters with the larger coefficients such as L1 regularization, Lasso regularization, dropout, etc.   
+  2. Increase the duration of training - extending the duration of training because stopping the training early will cause underfit model.  
+  3. Feature selection - not enough predictive features present, then adding more features or features with greater importance would improve the model.      
 
 
 ## Python Reviews
