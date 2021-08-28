@@ -30,7 +30,7 @@ Overfitting:
   2. High test error  
 Avoding overfitting:  
   1. Early stopping   
-  2. Traing with more data  
+  2. Training with more data  
   3. Data augmentation  
   4. Feature selection  
   5. Regularization  
@@ -43,6 +43,10 @@ Good fit:
 Underfitting:  
   1. Low training error  
   2. High test error  
+Avoding overfitting:  
+  1. Decrease regularization     
+  2. Increase the duration of training  
+  3. Feature selection  
 
 
 ## Python Reviews
