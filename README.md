@@ -23,7 +23,7 @@ Machine learning is a subset of artificial intelligence involved with the creati
   2. Regression (predict values)  
 
 ### Overfitting, Underfitting, and the bias-variance tradeoff  
-
+Overfitted is when the model memorizes the noise and fits too closely to the training set. Underfitting is when it cannot establish the dominant trend within the data; as a result, in training errors and poor performance of the model.  
 #### Overfitting:   
   1. High training error  
   2. High test error  
