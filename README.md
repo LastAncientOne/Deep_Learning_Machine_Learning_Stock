@@ -24,8 +24,7 @@ Machine learning is a subset of artificial intelligence involved with the creati
 
 ### Overfitting, Underfitting, and the bias-variance tradeoff  
 
-#### Overfitting:  
-Overfitting:  
+#### Overfitting:   
   1. High training error  
   2. High test error    
 Avoding overfitting:  
@@ -40,7 +39,6 @@ Good fit:
   1. Low training error  
   2. Low testing error  
 #### Underfitting:  
-Underfitting:  
   1. Low training error  
   2. High test error   
 Avoding overfitting:  
