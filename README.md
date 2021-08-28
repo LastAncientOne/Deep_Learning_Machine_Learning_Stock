@@ -27,7 +27,7 @@ Machine learning is a subset of artificial intelligence involved with the creati
 #### Overfitting:  
 Overfitting:  
   1. High training error  
-  2. High test error  
+  2. High test error    
 Avoding overfitting:  
   1. Early stopping   
   2. Training with more data  
@@ -42,7 +42,7 @@ Good fit:
 #### Underfitting:  
 Underfitting:  
   1. Low training error  
-  2. High test error  
+  2. High test error   
 Avoding overfitting:  
   1. Decrease regularization     
   2. Increase the duration of training  
