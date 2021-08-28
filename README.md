@@ -25,8 +25,8 @@ Machine learning is a subset of artificial intelligence involved with the creati
 ### Overfitting, Underfitting, and the bias-variance tradeoff  
 Overfitted is when the model memorizes the noise and fits too closely to the training set. Good fit is a model that learns the training dataset and genernalizes well with the old out dataset. Underfitting is when it cannot establish the dominant trend within the data; as a result, in training errors and poor performance of the model.  
 #### Overfitting:   
-  1. High training error  
-  2. High test error  
+  1. High Train Accuracy   
+  2. Low Test Accuracy
 #### Avoiding overfitting:  
   1. Early stopping - stop the training before the model starts learning the noise within the model.   
   2. Training with more data - adding more data will increase the accuracy of the modelor can help algorithms detect the signal better.     
@@ -36,11 +36,11 @@ Overfitted is when the model memorizes the noise and fits too closely to the tra
   6. Ensemble methods - combine predictions from multiple separate models such as bagging and boosting.       
 #### Good fit:  
 Good fit:   
-  1. Low training error  
-  2. Low testing error  
+  1. High Train Accuracy   
+  2. High Test Accuracy   
 #### Underfitting:  
-  1. Low training error  
-  2. High test error   
+  1. Low Train Accuracy  
+  2. Low Test Accuracy   
 #### Avoiding overfitting:  
   1. Decrease regularization - reduce the variance with a model by applying a penalty to the input parameters with the larger coefficients such as L1 regularization, Lasso regularization, dropout, etc.   
   2. Increase the duration of training - extending the duration of training because stopping the training early will cause underfit model.  
