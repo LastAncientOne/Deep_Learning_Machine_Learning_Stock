@@ -22,6 +22,29 @@ Machine learning is a subset of artificial intelligence involved with the creati
   1. Classification (predict label)  
   2. Regression (predict values)  
 
+### Overfitting, Underfitting, and the bias-variance tradeoff  
+
+#### Overfitting:  
+Overfitting:  
+  1. High training error  
+  2. High test error  
+Avoding overfitting:  
+  1. Early stopping   
+  2. Traing with more data  
+  3. Data augmentation  
+  4. Feature selection  
+  5. Regularization  
+  6. Ensemble methods    
+#### Good fit:  
+Good fit:   
+  1. Low training error  
+  2. Low testing error  
+#### Underfitting:  
+Underfitting:  
+  1. Low training error  
+  2. High test error  
+
+
 ## Python Reviews
 Step 1 through step 8 is a reviews in python.  
 After step 8, everything you need to know that is relate to data analysis, data engineering, data science, machine learning, and deep learning.   
