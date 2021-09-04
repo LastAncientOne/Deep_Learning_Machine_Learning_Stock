@@ -25,7 +25,7 @@ Machine learning is a subset of artificial intelligence involved with the creati
 ### Overfitting, Underfitting, and the bias-variance tradeoff  
 Overfitted is when the model memorizes the noise and fits too closely to the training set. Good fit is a model that learns the training dataset and genernalizes well with the old out dataset. Underfitting is when it cannot establish the dominant trend within the data; as a result, in training errors and poor performance of the model.  
 #### Overfitting:   
-Overfitting model is a good model with the training data that fit or at lease with near each observation; however, the model mist the point and random noise is capture inside the model.   
+Overfitting model is a good model with the training data that fit or at lease with near each observation; however, the model mist the point and random noise is capture inside the model. The model have low training error and high CV error, low in-sample error and high out-of-sample error, and high variance.  
   1. High Train Accuracy   
   2. Low Test Accuracy
 #### Avoiding overfitting:  
@@ -40,7 +40,7 @@ Good fit:
   1. High Train Accuracy   
   2. High Test Accuracy   
 #### Underfitting:  
-Underfitting model is not perfect, so it does not capture the underlying logic of the data. Therefore, the model does not have strong predictive power with low accuracy.  
+Underfitting model is not perfect, so it does not capture the underlying logic of the data. Therefore, the model does not have strong predictive power with low accuracy. The model have large training set error, large in-sample error, and high bias.  
   1. Low Train Accuracy  
   2. Low Test Accuracy   
 #### Avoiding overfitting:  
