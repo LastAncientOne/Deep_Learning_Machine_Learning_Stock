@@ -22,8 +22,19 @@ Machine learning is a subset of artificial intelligence involved with the creati
   1. Classification (predict label)  
   2. Regression (predict values)  
 
+### Bias-Variance Tradeoff  
+#### Bias  
+- Bias is the difference between our actual and predicted values.  
+- Bias is the simple assumptions that our model makes about our data to be able to predict new data.  
+- Assumptions made by a model to make a function easier to learn.   
+#### Variance  
+- Variance is opposite of bias.  
+- Variance is variability of model prediction for a given data point or a value that tells us the spread of our data.  
+- If you train your data on training data and obtain a very low error, upon changing the data and then training the same.   
+
 ### Overfitting, Underfitting, and the bias-variance tradeoff  
-Overfitted is when the model memorizes the noise and fits too closely to the training set. Good fit is a model that learns the training dataset and genernalizes well with the old out dataset. Underfitting is when it cannot establish the dominant trend within the data; as a result, in training errors and poor performance of the model.  
+Overfitted is when the model memorizes the noise and fits too closely to the training set. Good fit is a model that learns the training dataset and genernalizes well with the old out dataset. Underfitting is when it cannot establish the dominant trend within the data; as a result, in training errors and poor performance of the model. 
+
 #### Overfitting:   
 Overfitting model is a good model with the training data that fit or at lease with near each observation; however, the model mist the point and random noise is capture inside the model. The model have low training error and high CV error, low in-sample error and high out-of-sample error, and high variance.  
   1. High Train Accuracy   
