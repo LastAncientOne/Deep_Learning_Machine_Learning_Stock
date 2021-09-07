@@ -46,6 +46,7 @@ Overfitting model is a good model with the training data that fit or at lease wi
   4. Feature selection - Use important features within the data. Remove features. 
   5. Regularization - reduce features by using regularization methods such as L1 regularization, Lasso regularization, and dropout.  
   6. Ensemble methods - combine predictions from multiple separate models such as bagging and boosting.       
+  7. Increase training data.  
 #### Good fit:  
 Good fit:   
   1. High Train Accuracy   
@@ -54,11 +55,12 @@ Good fit:
 Underfitting model is not perfect, so it does not capture the underlying logic of the data. Therefore, the model does not have strong predictive power with low accuracy. The model have large training set error, large in-sample error, and high bias.  
   1. Low Train Accuracy  
   2. Low Test Accuracy   
-#### Avoiding Uverfitting:  
+#### Avoiding Underfitting:  
   1. Decrease regularization - reduce the variance with a model by applying a penalty to the input parameters with the larger coefficients such as L1 regularization, Lasso regularization, dropout, etc.   
   2. Increase the duration of training - extending the duration of training because stopping the training early will cause underfit model.  
   3. Feature selection - not enough predictive features present, then adding more features or features with greater importance would improve the model.  
-  4. Remove noise from the data    
+  4. Increase the number of features - performing feature engineering  
+  5. Remove noise from the data    
 
 
 ## Python Reviews
