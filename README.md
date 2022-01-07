@@ -72,7 +72,7 @@ After step 8, everything you need to know that is relate to data analysis, data 
 
 ## List of Machine Learning Algorithms for Stock Trading  
 ### Most Common Regression Algorithms  
-1. Simple Linear Regression Model  
+1. Linear Regression Model  
 2. Logistic Regression  
 3. Lasso Regression    
 4. Support Vector Machines  
