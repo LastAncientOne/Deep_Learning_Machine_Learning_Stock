@@ -31,3 +31,6 @@
 :arrow_forward: Tensorflow  
 :arrow_forward: Time Series  
 :arrow_forward: XGBoost  
+
+## Authors  
+### * Tin Hang  
