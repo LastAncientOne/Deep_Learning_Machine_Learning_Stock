@@ -12,5 +12,5 @@ __Input__
 3. Input the stock symbol  
 4. Choose Algorithms for Stock Prediction  
 
-
-### Authors: Tin Hang
+## Authors  
+### * Tin Hang  
