@@ -1,3 +1,5 @@
+### Description: Machine learning algorithms are programs that uses math and logic to adjust themselves to perform better as they are exposed to more data. The “learning” part of machine learning means that those programs change how they process data over time, much as humans change how they process data by learning.  
+
 # :large_blue_diamond: List of Algorithms :large_blue_diamond:  
 :arrow_forward: AdaBoost Classification  
 :arrow_forward: AdaBoost Regressor   
