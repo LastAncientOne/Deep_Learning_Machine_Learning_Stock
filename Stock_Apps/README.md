@@ -4,7 +4,7 @@
 # Stock Applications & Softwares  
 
 ## Descriptions:
-Different types of options of predictions
+Different types of algorithm for predictions
 
 __Input__  
 1: Input the stock starting date  
