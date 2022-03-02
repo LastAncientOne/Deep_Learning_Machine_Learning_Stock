@@ -1,4 +1,4 @@
-<img src="Title_Apps.PNG">
+<img src="Stock_Apps.PNG">
 
 
 # Stock Applications & Softwares  
