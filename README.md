@@ -1,3 +1,27 @@
+
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- MARKDOWN LINKS & IMAGES -->
+<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
+[contributors-shield]: https://img.shields.io/github/contributors/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
+[contributors-url]: https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/LDeep-Learning-Machine-Learning-Stockt.svg?style=for-the-badge
+[forks-url]: https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock/network/members
+[stars-shield]: https://img.shields.io/github/stars/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
+[stars-url]: https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock/stargazers
+[issues-shield]: https://img.shields.io/github/issues/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
+[issues-url]: https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock/issues
+[license-shield]: https://img.shields.io/github/license/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
+[license-url]: LICENSE
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/tin-hang
+
+
 <img src="DL_Title.PNG">
 
 # Deep Learning and Machine Learning for Stock Predictions  
