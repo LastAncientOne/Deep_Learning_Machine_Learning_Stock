@@ -10,7 +10,7 @@
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
 [contributors-url]: https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
 [forks-url]: https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock/network/members
 [stars-shield]: https://img.shields.io/github/stars/LastAncientOne/Deep-Learning-Machine-Learning-Stock.svg?style=for-the-badge
 [stars-url]: https://github.com/LastAncientOne/Deep-Learning-Machine-Learning-Stock/stargazers
