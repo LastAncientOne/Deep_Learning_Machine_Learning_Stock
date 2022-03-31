@@ -66,8 +66,10 @@ def stock_logistic_regression():
     print(metrics.classification_report(y_test, predicted))
     print(model.score(X_test,y_test))
     cross_val = cross_validate(LogisticRegression(), X, y, scoring='accuracy', cv=10)
+    print('_____________Summary:_____________') 
     print(cross_val)
     print(cross_val.mean())
+    print("")
     ans = ['1', '2'] 
     user_input=input("""                  
 What would you like to do next? Enter option 1 or 2.  
@@ -153,6 +155,7 @@ def stock_svr():
     plt.title('Support Vector Regression')
     plt.legend()
     plt.show()
+    print('_____________Summary:_____________') 
     print('Linear Model:', svr_rbf.predict(x)[0])
     print('RBF Model:', svr_lin.predict(x)[0])
     print('Polynomial Model:', svr_poly.predict(x)[0])
