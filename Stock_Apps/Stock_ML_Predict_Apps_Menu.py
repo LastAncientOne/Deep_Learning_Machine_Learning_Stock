@@ -21,7 +21,7 @@ from sklearn.svm import SVR
 import warnings
 warnings.filterwarnings("ignore")
 
-# fix_yahoo_finance is used to fetch data 
+# yahoo finance used to fetch data 
 import yfinance as yf
 yf.pdr_override()
 
@@ -36,7 +36,7 @@ def start_date():
 
 # Input End Date
 def end_date():
-    date_entry = input('Enter a starting date in MM/DD/YYYY format: ')
+    date_entry = input('Enter a ending date in MM/DD/YYYY format: ')
     end = datetime.datetime.strptime(date_entry,'%m/%d/%Y')
     end = end.strftime('%Y-%m-%d')
     return end
@@ -104,10 +104,11 @@ def stock_linear_regression():
     plt.grid()
     plt.title(sym + ' Prices vs Predicted Prices')
     plt.show()
-    print('Summary:')       
+    print('_____________Summary:_____________')       
     print('Estimate intercept coefficient:', lr.intercept_)
     print('Number of coefficients:', len(lr.coef_))
     print('Accuracy Score:', lr.score(X, Y))
+    print("")
     ans = ['1', '2'] 
     user_input=input("""                  
 What would you like to do next? Enter option 1 or 2.  
@@ -155,6 +156,7 @@ def stock_svr():
     print('Linear Model:', svr_rbf.predict(x)[0])
     print('RBF Model:', svr_lin.predict(x)[0])
     print('Polynomial Model:', svr_poly.predict(x)[0])
+    print("")
     ans = ['1', '2'] 
     user_input=input("""                  
 What would you like to do next? Enter option 1 or 2.  
