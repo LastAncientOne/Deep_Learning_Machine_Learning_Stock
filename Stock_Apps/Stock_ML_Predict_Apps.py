@@ -20,8 +20,8 @@ from sklearn.svm import SVR
 import warnings
 warnings.filterwarnings("ignore")
 
-# fix_yahoo_finance is used to fetch data 
-import fix_yahoo_finance as yf
+# yahoo finance used to fetch data 
+import yfinance as yf
 yf.pdr_override()
 
 options = " Stock Linear Regression Prediction, Stock Logistic Regression Prediction, Support Vector Regression, Exit".split(",")
@@ -35,7 +35,7 @@ def start_date():
 
 # Input End Date
 def end_date():
-    date_entry = input('Enter a starting date in MM/DD/YYYY format: ')
+    date_entry = input('Enter a ending date in MM/DD/YYYY format: ')
     end = datetime.datetime.strptime(date_entry,'%m/%d/%Y')
     end = end.strftime('%Y-%m-%d')
     return end
@@ -90,10 +90,11 @@ def stock_linear_regression():
     plt.grid()
     plt.title(sym + ' Prices vs Predicted Prices')
     plt.show()
-    print('Summary:')       
+    print('____________Summary:____________')      
     print('Estimate intercept coefficient:', lr.intercept_)
     print('Number of coefficients:', len(lr.coef_))
     print('Accuracy Score:', lr.score(X, Y))
+    print("")
     return
 
 # Support Vector Regression
@@ -125,9 +126,11 @@ def stock_svr():
     plt.title('Support Vector Regression')
     plt.legend()
     plt.show()
+    print('____________Summary:____________')   
     print('Linear Model:', svr_rbf.predict(x)[0])
     print('RBF Model:', svr_lin.predict(x)[0])
     print('Polynomial Model:', svr_poly.predict(x)[0])
+    print("")
     return
 
     
