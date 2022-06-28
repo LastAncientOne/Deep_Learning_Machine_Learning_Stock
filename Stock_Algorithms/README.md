@@ -37,5 +37,8 @@
 :arrow_forward: Time Series  
 :arrow_forward: XGBoost  
 
+###  AdaBoost Classification  
+AdaBoost is short for Adaptive Boosting and is a statistical classification meta-algorithm created by Yoav Freund and Robert Schapire in 1995. The meta-estimator begins by fitting a classifier on the original dataset and then fits additional copies of the classifier on the same dataset but where the weights of incorrectly classified instances are adjusted such that subsequent classifiers focus more on difficult cases.    
+
 ## Authors  
 ### * Tin Hang  
