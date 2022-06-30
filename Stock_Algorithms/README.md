@@ -41,7 +41,10 @@
 AdaBoost is short for Adaptive Boosting and is a statistical classification meta-algorithm created by Yoav Freund and Robert Schapire in 1995. The meta-estimator begins by fitting a classifier on the original dataset and then fits additional copies of the classifier on the same dataset. However, the weights of incorrectly classified instances are adjusted such that subsequent classifiers focus more on difficult cases.      
 
 ### Anomaly Detection 
-Anomaly detection is identifying data points in data that don't fit the normal patterns.  It is use for identify of rare items, events or observations which deviate significantly from the majority of the data and do not conform to a well defined notion of normal behaviour.  
+Anomaly detection is identifying data points in data that don't fit the normal patterns.  It is use for identify of rare items, events or observations which deviate significantly from the majority of the data and do not conform to a well defined notion of normal behaviour. Each node or artificial neuron are connects to another and has an associated weight and threshold. If the output of any individual node is above the specified threshold value, that node is activated and send data to the next layer of the network. Otherwise, no data is passed along to the next layer of the network.    
+
+### Artificial Neural Network  
+Artificial neural networks (ANNs) consist of input, hidden, and output layers with connected neurons (nodes) to simulate the human brain.
 
 ## Authors  
 ### * Tin Hang  
