@@ -44,7 +44,10 @@ AdaBoost is short for Adaptive Boosting and is a statistical classification meta
 Anomaly detection is identifying data points in data that don't fit the normal patterns.  It is use for identify of rare items, events or observations which deviate significantly from the majority of the data and do not conform to a well defined notion of normal behaviour. Each node or artificial neuron are connects to another and has an associated weight and threshold. If the output of any individual node is above the specified threshold value, that node is activated and send data to the next layer of the network. Otherwise, no data is passed along to the next layer of the network.    
 
 ### Artificial Neural Network  
-Artificial neural networks (ANNs) consist of input, hidden, and output layers with connected neurons (nodes) to simulate the human brain.
+Artificial neural networks (ANNs) consist of input, hidden, and output layers with connected neurons (nodes) to simulate the human brain.  
+
+### Bayesian Ridge Regression  
+Bayesian Ridge Regression is similar to linear regression in which the statistical analysis is undertaken within the context of Bayesian inference. It allows a natural mechanism to survive insufficient data or poorly distributed data by formulating linear regression using probability distributors rather than point estimates.   
 
 ## Authors  
 ### * Tin Hang  
