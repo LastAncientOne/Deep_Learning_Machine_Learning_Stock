@@ -46,11 +46,15 @@ Anomaly detection is identifying data points in data that don't fit the normal p
 ### Artificial Neural Network  
 Artificial neural networks (ANNs) consist of input, hidden, and output layers with connected neurons (nodes) to simulate the human brain.  
 
+### Bagging classifier  
+Bagging classifier is an ensemble meta-estimator that fits base classifiers each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction.  
+
+
 ### Bayesian Ridge Regression  
 Bayesian Ridge Regression is similar to linear regression in which the statistical analysis is undertaken within the context of Bayesian inference. It allows a natural mechanism to survive insufficient data or poorly distributed data by formulating linear regression using probability distributors rather than point estimates.  
 
-### Bagging classifier  
-Bagging classifier is an ensemble meta-estimator that fits base classifiers each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction.  
+### Bernoulli Restricted Boltzmann Machine   
+Bernoulli Restricted Boltzmann Machine (RBM) is a generative stochastic artificial neural network that can learn a probability distribution over its set of inputs.  
 
 ## Authors  
 ### * Tin Hang  
