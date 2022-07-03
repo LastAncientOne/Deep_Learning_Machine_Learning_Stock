@@ -56,5 +56,10 @@ Bayesian Ridge Regression is similar to linear regression in which the statistic
 ### Bernoulli Restricted Boltzmann Machine   
 Bernoulli Restricted Boltzmann Machine (RBM) is a generative stochastic artificial neural network that can learn a probability distribution over its set of inputs.  
 
+##  Algorithm Library
+### Catboost  
+CatBoost is an algorithm for gradient boosting on decision trees.  
+
+
 ## Authors  
 ### * Tin Hang  
