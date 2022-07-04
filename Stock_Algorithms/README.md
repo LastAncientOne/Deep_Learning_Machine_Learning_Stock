@@ -12,7 +12,7 @@
 :arrow_forward: Bayesian Ridge Regression  
 :arrow_forward: Bernoulli Restricted Boltzmann Machine  
 :arrow_forward: CatBoost Algorithms    
-:arrow_forward: Classification Cluster  
+:arrow_forward: Classification and Clustering  
 :arrow_forward: Decision Tree Classification   
 :arrow_forward: Decision Tree Regression  
 :arrow_forward: Gradient Boosting Classification  
@@ -59,6 +59,9 @@ Bernoulli Restricted Boltzmann Machine (RBM) is a generative stochastic artifici
 ##  Algorithm Library
 ### Catboost  
 CatBoost is an algorithm for gradient boosting on decision trees.  
+
+### Classification and Clustering  
+Classification examples are Logistic regression, Naive Bayes classifier, Support vector machines, and other relates to clasification.  However, clustering are k-means clustering algorithm, Fuzzy c-means clustering algorithm, Gaussian (EM) clustering algorithm, and other algoritm relates to clustering.  
 
 
 ## Authors  
