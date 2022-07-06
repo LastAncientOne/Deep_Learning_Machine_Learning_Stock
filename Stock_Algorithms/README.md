@@ -59,6 +59,9 @@ Bernoulli Restricted Boltzmann Machine (RBM) is a generative stochastic artifici
 ### Decision Tree  
 Decision Tree algorithm is a suppervisied machine learning technique and is usded for both classisfication or regression.  Decision Tree use multiple algorithms to decide to split a node into two or more sub-nodes. The creation of sub-nodes increases the homogeneity of resultant sub-nodes. However, the purity of the node increases with respect to the target variable.    
 
+### Gradient Boosting  
+Gradient Boosting is a machine learning technique used in regression and classifications. Gradient boosting works on building simple or weak prediction models sequentially where each model tries to predict the error left over by the previous model such as overfitting.  
+
 ##  Algorithm Library
 ### Catboost  
 CatBoost is an algorithm for gradient boosting on decision trees.  
