@@ -62,6 +62,9 @@ Decision Tree algorithm is a suppervisied machine learning technique and is usde
 ### Gradient Boosting  
 Gradient Boosting is a machine learning technique used in regression and classifications. Gradient boosting works on building simple or weak prediction models sequentially where each model tries to predict the error left over by the previous model such as overfitting.  
 
+### K-Means  
+K-Means clustering is unsupervised machine learning algorithms and is used to solve complex machine learning problems.  
+
 ##  Algorithm Library
 ### Catboost  
 CatBoost is an algorithm for gradient boosting on decision trees.  
