@@ -65,6 +65,9 @@ Gradient Boosting is a machine learning technique used in regression and classif
 ### K-Means  
 K-Means clustering is unsupervised machine learning algorithms and is used to solve complex machine learning problems.  
 
+### K-Nearest Neighbors  
+K-Nearest Neighbors (KNN or k-NN) is used for a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.  
+
 ##  Algorithm Library
 ### Catboost  
 CatBoost is an algorithm for gradient boosting on decision trees.  
