@@ -68,6 +68,9 @@ K-Means clustering is unsupervised machine learning algorithms and is used to so
 ### K-Nearest Neighbors  
 K-Nearest Neighbors (KNN or k-NN) is used for a non-parametric, supervised learning classifier, which uses proximity to make classifications or predictions about the grouping of an individual data point.  
 
+### Logistic Regression  
+Logistic Regression is use for to estimates the probability of an event occurring, such as voted or didn't vote, based on a given dataset of independent variables. Since the outcome is a probability, the dependent variable is bounded between 0 and 1.  
+
 ##  Algorithm Library
 ### Catboost  
 CatBoost is an algorithm for gradient boosting on decision trees.  
