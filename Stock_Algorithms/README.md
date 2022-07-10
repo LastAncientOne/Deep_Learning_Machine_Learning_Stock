@@ -15,9 +15,9 @@
 :arrow_forward: Classification and Clustering  
 :arrow_forward: Decision Tree Classification   
 :arrow_forward: Decision Tree Regression  
-:arrow_forward: Dimensionality reduction Algorithms    
+:arrow_forward: Dimensionality Reduction Algorithms    
 :arrow_forward: Gradient Boosting Classification  
-:arrow_forward: K-Means  
+:arrow_forward: K-Means Clustering Algorithm   
 :arrow_forward: K-Nearest Neighbors Algorithm  
 :arrow_forward: Logistic Regression    
 :arrow_forward: Linear Regression   
@@ -63,7 +63,7 @@ Decision Tree algorithm is a suppervisied machine learning technique and is usde
 ### Gradient Boosting Algorithm    
 Gradient Boosting is a machine learning technique used in regression and classifications. Gradient boosting works on building simple or weak prediction models sequentially where each model tries to predict the error left over by the previous model such as overfitting.  
 
-### K-Means  
+### K-Means Clustering Algorithm  
 K-Means clustering is unsupervised machine learning algorithms and is used to solve complex machine learning problems.  
 
 ### K-Nearest Neighbors Algorithm  
