@@ -78,6 +78,9 @@ K-Nearest Neighbors (KNN or k-NN) is used for a non-parametric, supervised learn
 ### Logistic Regression  
 Logistic Regression is use for to estimates the probability of an event occurring, such as voted or didn't vote, based on a given dataset of independent variables. Since the outcome is a probability, the dependent variable is bounded between 0 and 1.  
 
+### Linear Regression   
+Linear Regression is use to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable.  
+
 ## Gradient Boosting Algorithms:  
 ### GBM:  
 ### XGBoost:  
