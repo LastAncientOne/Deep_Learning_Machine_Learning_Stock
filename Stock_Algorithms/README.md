@@ -7,16 +7,22 @@
 :arrow_forward: AdaBoost Classification  
 :arrow_forward: AdaBoost Regressor   
 :arrow_forward: Anomaly Detection  
+:arrow_forward: Apriori Algorithm  
 :arrow_forward: Artificial Neural Network   
 :arrow_forward: Bagging Classifier   
 :arrow_forward: Bayesian Ridge Regression  
 :arrow_forward: Bernoulli Restricted Boltzmann Machine  
 :arrow_forward: CatBoost Algorithms    
 :arrow_forward: Classification and Clustering  
+:arrow_forward: Clustering Algorithms  
+:arrow_forward: CART (Classification and Regression Trees)     
 :arrow_forward: Decision Tree Classification   
 :arrow_forward: Decision Tree Regression  
-:arrow_forward: Dimensionality Reduction Algorithms    
+:arrow_forward: Dimensionality Reduction Algorithms  
+:arrow_forward: Ensemble Learning Algorithms  
+:arrow_forward: Explanatory Algorithms  
 :arrow_forward: Gradient Boosting Classification  
+:arrow_forward: Generative Adversarial Networks (GANs)    
 :arrow_forward: K-Means Clustering Algorithm   
 :arrow_forward: K-Nearest Neighbors Algorithm  
 :arrow_forward: Logistic Regression    
@@ -33,6 +39,7 @@
 :arrow_forward: Random Forest Regression   
 :arrow_forward: RNN Tensorflow  
 :arrow_forward: Ridge Regression  
+:arrow_forward: Similarity Algorithms  
 :arrow_forward: Support Vector Machines (SVM)  
 :arrow_forward: Tensorflow  
 :arrow_forward: Time Series  
@@ -49,7 +56,6 @@ Artificial neural networks (ANNs) consist of input, hidden, and output layers wi
 
 ### Bagging classifier  
 Bagging classifier is an ensemble meta-estimator that fits base classifiers each on random subsets of the original dataset and then aggregate their individual predictions (either by voting or by averaging) to form a final prediction.  
-
 
 ### Bayesian Ridge Regression  
 Bayesian Ridge Regression is similar to linear regression in which the statistical analysis is undertaken within the context of Bayesian inference. It allows a natural mechanism to survive insufficient data or poorly distributed data by formulating linear regression using probability distributors rather than point estimates.  
@@ -72,8 +78,11 @@ K-Nearest Neighbors (KNN or k-NN) is used for a non-parametric, supervised learn
 ### Logistic Regression  
 Logistic Regression is use for to estimates the probability of an event occurring, such as voted or didn't vote, based on a given dataset of independent variables. Since the outcome is a probability, the dependent variable is bounded between 0 and 1.  
 
-##  Algorithm Library
-### Catboost  
+## Gradient Boosting Algorithms:  
+### GBM:  
+### XGBoost:  
+### LightGBM:  
+### Catboost:    
 CatBoost is an algorithm for gradient boosting on decision trees.  
 
 ### Classification and Clustering  
