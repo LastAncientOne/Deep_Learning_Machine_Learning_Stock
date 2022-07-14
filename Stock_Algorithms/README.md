@@ -80,6 +80,9 @@ Logistic Regression is use for to estimates the probability of an event occurrin
 ### Linear Regression   
 Linear Regression is use to model the relationship between two variables by fitting a linear equation to observed data. One variable is considered to be an explanatory variable, and the other is considered to be a dependent variable.  
 
+### NetworkX  
+NetworkX provides classes for graphs which allow multiple edges between any pair of nodes. The MultiGraph and MultiDiGraph classes allow you to add the same edge twice, possibly with different edge data. NetworkX can be powerful for some applications; however, many algorithms are not well defined on such graphs.  
+
 ## Gradient Boosting Algorithms:  
 ### GBM:  
 ### XGBoost:  
