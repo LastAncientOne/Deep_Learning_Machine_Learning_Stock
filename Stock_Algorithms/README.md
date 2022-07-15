@@ -83,8 +83,10 @@ Linear Regression is use to model the relationship between two variables by fitt
 ### NetworkX  
 NetworkX provides classes for graphs which allow multiple edges between any pair of nodes. The MultiGraph and MultiDiGraph classes allow you to add the same edge twice, possibly with different edge data. NetworkX can be powerful for some applications; however, many algorithms are not well defined on such graphs.  
 
-## Gradient Boosting Algorithms:  
-### GBM:  
+## Boosting Algorithms:  
+### Gradient Boosting Machines (GBM):  
+Gradient boosting is a machine learning technique used in regression and classification tasks, among others. It gives a prediction model in the form of an ensemble of weak prediction models, which are typically decision trees.When a decision tree is the weak learner, the resulting algorithm is called gradient-boosted trees; it usually outperforms random forest.  A gradient-boosted trees model is built in a stage-wise fashion as in other boosting methods, but it generalizes the other methods by allowing optimization of an arbitrary differentiable loss function.  
+
 ### XGBoost:  
 ### LightGBM:  
 ### Catboost:    
