@@ -91,7 +91,7 @@ Gradient boosting is a machine learning technique used in regression and classif
 XGBoost is a scalable and highly accurate implementation of gradient boosting that pushes the limits of computing power for boosted tree algorithms, being built largely for energizing machine learning model performance and computational speed.  
 
 ### LightGBM:  
-
+LightGBN is a gradient boosting framework that uses tree based learning algorithms.  
 
 ### Catboost:    
 CatBoost is an algorithm for gradient boosting on decision trees.  
