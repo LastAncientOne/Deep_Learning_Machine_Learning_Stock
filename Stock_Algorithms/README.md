@@ -104,3 +104,5 @@ Classification examples are Logistic regression, Naive Bayes classifier, Support
 
 ## Authors  
 ### * Tin Hang  
+
+## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
