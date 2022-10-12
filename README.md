@@ -124,7 +124,8 @@ Algorithms is a process and set of instructions to solve a class of problems. In
 
 # Prerequistes  
 Python 3.5+  
-Jupyter Notebook Python 3  
+Jupyter Notebook Python 3    
+Windows 7 or Windows 10  
 
 ### Download Software  
 https://www.python.org/  
@@ -144,3 +145,4 @@ https://www.python.org/
 &#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books that relate to stock market, investment, or finance. On the other hand, if you into quant or machine learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. You should read &#x1F4D7; about Machine Learning and Deep Learning to understand the concept, theory, and the mathematics. On the other hand, you should read academic paper and do research online about machine learning and deep learning on :computer:  
 
 ## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
+## Some codes might not work because some of the library packages is updated or outdate.   
