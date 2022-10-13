@@ -77,7 +77,6 @@ Overfitting model is a good model with the training data that fit or at lease wi
   6. Ensemble methods - combine predictions from multiple separate models such as bagging and boosting.       
   7. Increase training data.  
 #### Good fit:  
-Good fit:   
   1. High Train Accuracy   
   2. High Test Accuracy   
 #### Underfitting:  
