@@ -27,9 +27,9 @@
 <img src="DL_Title.PNG">
 
 # Deep Learning and Machine Learning for Stock Predictions  
-Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stock with Machine Learning method or Deep Learning method with different types of algorithm. Experimenting in stock data to see how it works and why it works or why it does not work that way. Using different types of stock strategies in machine learning or deep learning. Using Technical Analysis or Fundamental Analysis in machine learning or deep learning to predict the future stock price. In addition, to predict stock in long terms or short terms.  
+Description: This is for learning, studying, researching, and analyzing stock in deep learning (DL) and machine learning (ML). Predicting Stocks with a Machine Learning method or Deep Learning method with different types of algorithm. Experimenting with stock data to see how it works and why it works or why it does not work that way. Using different types of stock strategies in machine learning or deep learning. Using Technical Analysis or Fundamental Analysis in machine learning or deep learning to predict the future stock prices. In addition, to predict stocks in the long terms or short terms.  
 
-Machine learning is a subset of artificial intelligence involved with the creating of algorithms that can change itself without human intervention to produce an output by feeding itself through structured data. On the other hand, deep learning is a subset of machine learning where algorithms created, but the function are like machine learning and many of the different type of algorithms give a different interpretation of the data. The network of algorithms called artificial neural networks and is similar to neural connections that exist in the human brain.  
+Machine learning is a subset of artificial intelligence involved with the creating of algorithms that can change itself without human intervention to produce an output by feeding itself through structured data. On the other hand, deep learning is a subset of machine learning where algorithms are created, but the functions are like machine learning and many of the different types of algorithms give a different interpretation of the data. The network of algorithms is called artificial neural networks and is similar to neural connections that exist in the human brain.  
 
 <h3 align="left">Programming Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>  </a> <a href="https://nteract.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/12401040?s=200&v=4" alt="Nteract" width="50" height="50"/> </a> <a href="https://anaconda.org/" target="_blank"> <img src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png" alt="Anaconda" width="50" height="50"/> </a> <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://www.pinclipart.com/picdir/middle/180-1807410_spyder-icon-clipart.png" alt="Spyder" width="50" height="50"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/> </a> <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2019/07/Notepad_Logo.png" alt="Notepad++" width="50" height="50"/> </a> </p>
@@ -92,8 +92,8 @@ Underfitting model is not perfect, so it does not capture the underlying logic o
 
 
 ## Python Reviews
-Step 1 through step 8 is a reviews in python.  
-After step 8, everything you need to know that is relate to data analysis, data engineering, data science, machine learning, and deep learning.   
+Step 1 through step 8 is a review on python.  
+After step 8, everything you need to know is relates to data analysis, data engineering, data science, machine learning, and deep learning.   
 
 ## List of Machine Learning Algorithms for Stock Trading  
 ### Most Common Regression Algorithms  
@@ -119,7 +119,7 @@ After step 8, everything you need to know that is relate to data analysis, data 
 20. Biologic Intelligence  
 
 ### Different Types of Machine Learning Algorithms and Models  
-Algorithms is a process and set of instructions to solve a class of problems. In addition, algorithms perform a computation such as calculations, data processing, automated reasoning, and other tasks. A machine learning algorithms is a method that provides the systems to have the ability to automatically learn and improve from experience without being formulated.   
+Algorithms is a process and set of instructions to solve a class of problems. In addition, algorithms perform computation such as calculations, data processing, automated reasoning, and other tasks. A machine learning algorithm is a method that provides systems with the ability to automatically learn and improve from experience without being having formulated.  
 
 # Prerequistes  
 Python 3.5+  
