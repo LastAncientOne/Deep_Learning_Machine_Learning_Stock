@@ -94,8 +94,9 @@ Underfitting model is not perfect, so it does not capture the underlying logic o
 ## Python Reviews
 Step 1 through step 8 is a review on python.  
 After step 8, everything you need to know is relates to data analysis, data engineering, data science, machine learning, and deep learning.   
+Here the link to python tutorial:  
 [Python Tutorial for Stock Analysis](https://github.com/LastAncientOne/SimpleStockAnalysisPython)
-Here the link to python tutorial: 
+
 
 ## List of Machine Learning Algorithms for Stock Trading  
 ### Most Common Regression Algorithms  
