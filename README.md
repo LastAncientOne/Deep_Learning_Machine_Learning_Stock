@@ -31,6 +31,15 @@ Description: This is for learning, studying, researching, and analyzing stock in
 
 Machine learning is a subset of artificial intelligence involved with the creating of algorithms that can change itself without human intervention to produce an output by feeding itself through structured data. On the other hand, deep learning is a subset of machine learning where algorithms are created, but the functions are like machine learning and many of the different types of algorithms give a different interpretation of the data. The network of algorithms is called artificial neural networks and is similar to neural connections that exist in the human brain.  
 
+### Step-by-Step
+1. Collecting Data - Machines learn from the data.  
+2. Preparing the Data.  
+3. Choosing a Model.  
+4. Training the Model.  
+5. Evaluating the Model.  
+6. Parameter Tuning.  
+7. Predictions.
+
 <h3 align="left">Programming Languages and Tools:</h3>
 <p align="left"> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>  </a> <a href="https://nteract.io/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/12401040?s=200&v=4" alt="Nteract" width="50" height="50"/> </a> <a href="https://anaconda.org/" target="_blank"> <img src="https://www.clipartkey.com/mpngs/m/227-2271689_transparent-anaconda-logo-png.png" alt="Anaconda" width="50" height="50"/> </a> <a href="https://www.spyder-ide.org/" target="_blank"> <img src="https://www.pinclipart.com/picdir/middle/180-1807410_spyder-icon-clipart.png" alt="Spyder" width="50" height="50"/> </a> <a href="https://jupyter.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" alt="Jupyter Notebook" width="50" height="50"/> </a> <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://logos-download.com/wp-content/uploads/2019/07/Notepad_Logo.png" alt="Notepad++" width="50" height="50"/> </a> </p>
 
