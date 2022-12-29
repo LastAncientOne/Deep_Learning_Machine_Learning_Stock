@@ -32,8 +32,8 @@ Description: This is for learning, studying, researching, and analyzing stock in
 Machine learning is a subset of artificial intelligence involved with the creating of algorithms that can change itself without human intervention to produce an output by feeding itself through structured data. On the other hand, deep learning is a subset of machine learning where algorithms are created, but the functions are like machine learning and many of the different types of algorithms give a different interpretation of the data. The network of algorithms is called artificial neural networks and is similar to neural connections that exist in the human brain.  
 
 ### Step-by-Step
-1. Collecting Data - Machines learn from the data.  
-2. Preparing the Data.  
+1. Collecting/Gathering Data.
+2. Preparing the Data - load data and prepare it for the machine learning training.
 3. Choosing a Model.  
 4. Training the Model.  
 5. Evaluating the Model.  
