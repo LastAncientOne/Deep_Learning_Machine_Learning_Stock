@@ -138,7 +138,7 @@ Here the link to python tutorial:
 20. Biologic Intelligence  
 
 ### Different Types of Machine Learning Algorithms and Models  
-Algorithms is a process and set of instructions to solve a class of problems. In addition, algorithms perform computation such as calculations, data processing, automated reasoning, and other tasks. A machine learning algorithm is a method that provides systems with the ability to automatically learn and improve from experience without being having formulated.  
+Algorithms are processes and sets of instructions used to solve a class of problems. Additionally, algorithms perform computations such as calculations, data processing, automated reasoning, and other tasks. A machine learning algorithm is a method that enables systems to learn and improve automatically from experience, without the need for explicit formulation.  
 
 # Prerequistes  
 Python 3.5+  
@@ -162,5 +162,5 @@ https://www.python.org/
 ## Disclaimer  
 &#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books that relate to stock market, investment, or finance. On the other hand, if you into quant or machine learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. You should read &#x1F4D7; about Machine Learning and Deep Learning to understand the concept, theory, and the mathematics. On the other hand, you should read academic paper and do research online about machine learning and deep learning on :computer:  
 
-## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  
-## Some codes might not work because some of the library packages are updated or outdated. The code will need to be updated and it depends on the python package library. Some libraries will need to be either upgraded or downgraded.     
+## 🔴 Warning: This is not a financial advisor. Do not use this for investing or trading. It is for educational purposes.  
+## Some codes might not work due to updates or outdated versions of certain library packages. The code will require updating, depending on the Python package library being used. Certain libraries may need to be either upgraded or downgraded.  
