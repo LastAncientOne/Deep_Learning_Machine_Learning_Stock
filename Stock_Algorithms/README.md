@@ -3,6 +3,24 @@
 ### Description:  
 #### Machine learning algorithms are programs that uses math and logic to adjust themselves to perform better as they are exposed to more data. The “learning” part of machine learning means that those programs change how they process data over time, much as humans change how they process data by learning.  
 
+### List of Commonly Used Algorithms:  
+#### Linear Regression: A simple yet powerful algorithm that models the relationship between a dependent variable and one or more independent variables by fitting a linear equation to the data.  
+#### Logistic Regression: Widely used for binary classification problems, logistic regression estimates the probability of an event occurring based on a set of input features.  
+#### Decision Trees: These algorithms use a hierarchical structure of nodes and branches to make decisions by splitting the data based on different features. They are interpretable and often form the building blocks of ensemble methods.  
+#### Random Forest: An ensemble learning method that combines multiple decision trees to make predictions. It improves upon decision trees by reducing overfitting and increasing accuracy.   
+#### Support Vector Machines (SVM): SVMs aim to find the optimal hyperplane that separates data points into different classes. They work well for both linearly separable and non-linearly separable data.   
+#### K-Nearest Neighbors (KNN): KNN is a non-parametric algorithm that classifies data based on the majority vote of its nearest neighbors in the feature space.  
+#### Naive Bayes: A probabilistic algorithm that uses Bayes' theorem to make predictions. Despite its simplicity, it performs remarkably well in text classification and spam filtering.
+
+### Regression in Machine Learning:  
+#### Regression is a key concept in machine learning used for predicting continuous or numerical values. It analyzes the relationship between independent variables (features) and a dependent variable (target) to build a predictive model.  
+### Common regression techniques include:  
+#### Linear Regression: The most basic form of regression, it fits a linear equation to the data by minimizing the sum of squared residuals.  
+#### Polynomial Regression: Extends linear regression by introducing polynomial terms to capture non-linear relationships between variables.   
+#### Ridge Regression: Adds a regularization term to linear regression to prevent overfitting by penalizing large coefficient values.   
+#### Lasso Regression: Similar to ridge regression, but it uses the absolute value of the coefficients instead of squared values, leading to sparse solutions.    
+#### Support Vector Regression (SVR): An extension of SVMs for regression tasks. SVR finds a hyperplane that maximizes the margin of support vectors while minimizing the error on the training data.
+
 # :large_blue_diamond: List of Algorithms :large_blue_diamond:  
 :arrow_forward: AdaBoost Classification  
 :arrow_forward: AdaBoost Regressor   
