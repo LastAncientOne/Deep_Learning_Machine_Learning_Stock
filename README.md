@@ -159,10 +159,10 @@ https://www.python.org/
 <a href="https://www.buymeacoffee.com/lastancientone"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a Book&emoji=📚&slug=lastancientone&button_colour=000000&font_colour=ffffff&font_family=Lato&outline_colour=ffffff&coffee_colour=FFDD00" /></a>  
 
 ## Authors  
-### * Tin Hang
+### Tin Hang
 
 ## Disclaimer  
 &#x1F53B; Do not use this code for investing or trading in the stock market. However, if you are interest in the stock market, you should read :books: books that relate to stock market, investment, or finance. On the other hand, if you into quant or machine learning, read books about &#x1F4D8; machine trading, algorithmic trading, and quantitative trading. You should read &#x1F4D7; about Machine Learning and Deep Learning to understand the concept, theory, and the mathematics. On the other hand, you should read academic paper and do research online about machine learning and deep learning on :computer:  
 
-## 🔴 Warning: This is not financial advice. Do not rely on it for investment or trading decisions. It is for educational purposes only.  
+## 🔴 Warning: This is not financial advice; it should not be relied upon for investment or trading decisions, as it is for educational purposes only.  
 ## Certain portions of the code may encounter issues stemming from updates or obsolescence within specific library packages. Consequently, adjustments will be necessary, contingent upon the Python package library employed. It may be imperative to either upgrade or downgrade certain libraries accordingly.  
